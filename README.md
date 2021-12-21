@@ -1,2 +1,2 @@
-# Oden-Project-1
+# Project: Landing Page
 First attempt at building a website from scratch
